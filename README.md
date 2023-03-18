@@ -15,7 +15,7 @@ I create using these programming languages:<br>
 <p>● addition:</p>
 <a href="https://www.python.org/">
 <img src="img/py.svg" alt="python">
-</a>
+</a><br>
 
 <a href="https://htmlreference.io/">
 <img src="img/html.svg" alt="html">
