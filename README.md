@@ -7,19 +7,19 @@
 I create using these programming languages:<br>
 <p>● base:</p>
 <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
-<img src="img/c_img.svg" alt="c"><br>
+<img src="img/c_img.svg" alt="c">
 </a>
 <a href="https://en.cppreference.com/w/"> 
-<img src="img/cpp_img.svg" alt="cpp"><br>
+<img src="img/cpp_img.svg" alt="cpp">
 </a>
 <p>● addition:</p>
 <a href="https://www.python.org/">
 <img src="img/py.svg" alt="python">
-</a><br>
+</a>
 
 <a href="https://htmlreference.io/">
 <img src="img/html.svg" alt="html">
-</a><br>
+</a>
 <a href="https://htmlreference.io/">
 <img src="img/css.svg" alt="css">
 </a>
@@ -62,3 +62,5 @@ Linux:<br>
 
 
 P.S. by clicking on the icons, you can go to the skill reference
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexArutiunian)](https://github.com/AlexArutiunian/github-readme-stats)
