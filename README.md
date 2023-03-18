@@ -7,4 +7,4 @@
 I create using these programming languages
 </h2>
 
-<image src="cpp_img.svg" alt="cpp">
+<image src="img/cpp_img.svg" alt="cpp">
