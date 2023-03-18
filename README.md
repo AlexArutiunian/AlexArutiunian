@@ -6,14 +6,14 @@
 <h2 align="left">
 I create using these programming languages:<br>
 <p>● base:</p>
-<div>
+
 <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
 <img src="img/c_img.svg" alt="c">
 </a>
 <a href="https://en.cppreference.com/w/"> 
 <img src="img/cpp_img.svg" alt="cpp">
 </a>
-</div>
+
 <p>● addition:</p>
 <a href="https://www.python.org/">
 <img src="img/py.svg" alt="python">
@@ -32,22 +32,22 @@ I create using these programming languages:<br>
 Other useful IT-skills:<br>
 <a href="https://git-scm.com/">
 <img src="img/git.svg" alt="latex">
-</a><br>
+</a>
 <a href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX?">
 <img src="img/latex.svg" alt="latex">
-</a><br>
+</a>
 <a href="https://cmake.org/">
 <img src="img/cmake.svg" alt="cmake">
-</a><br>
+</a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html">
 <img src="img/bash.svg" alt="bash">
-</a><br>
+</a>
 <a href="https://support.typora.io/Markdown-Reference/">
 <img src="img/md.svg" alt="markdown">
-</a><br>
+</a>
 <a href="https://code.visualstudio.com/">
 <img src="img/vs.svg" alt="vs code">
-</a><br>
+</a>
 </h2>
 
 
@@ -55,7 +55,7 @@ Other useful IT-skills:<br>
 Linux:<br>
 <a href="https://www.kali.org/">
 <img src="img/kali.svg" alt="kali">
-</a><br>
+</a>
 <a href="https://losst.pro/kak-polzovatsya-tekstovym-redaktorom-vim#%D0%9A%D0%B0%D0%BA_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C_%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80_Vim">
 <img src="img/vim.svg" alt="vim">
 </a><br>
@@ -65,4 +65,3 @@ Linux:<br>
 
 P.S. by clicking on the icons, you can go to the skill reference
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexArutiunian)](https://github.com/AlexArutiunian/github-readme-stats)
