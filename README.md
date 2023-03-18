@@ -1,25 +1,32 @@
 
+<style>
+    .part_lang{
+        margin-left: 5%;
+    }
+ </style>
+
 <h1 align="center">Hi there, my name is Alexandr
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am MIPT DREC student</h3>
 <br><br>
 <h2 align="left">
 ○ Programming languages:<br>
-<p>&emsp; ● base:</p>
 
-<div class="ref_c">
-&emsp; 
+
+<div class="part_lang">
+<p>● base:</p>
 <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
 <img src="img/c_img.svg" alt="c">
 </a>
 
 <a href="https://en.cppreference.com/w/"> 
-&emsp; 
+ 
 <img src="img/cpp_img.svg" alt="cpp">
 </a>
 </div>
-<p>&emsp; ● addition:</p>
-<a href="https://www.python.org/">&emsp; 
+<div class="part_lang">
+<p> ● addition:</p>
+<a href="https://www.python.org/">
 <img src="img/py.svg" alt="python">
 </a>
 
@@ -29,6 +36,7 @@
 <a href="https://htmlreference.io/">
 <img src="img/css.svg" alt="css">
 </a>
+</div>
 </h2>
 
 
