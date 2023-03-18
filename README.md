@@ -4,32 +4,33 @@
 <h3 align="center">I am MIPT DREC student</h3>
 <br><br>
 <h2 align="left">
-I create using these programming languages:<br>
-<p>● base:</p>
+○ Programming languages:<br>
+<p>&emsp; ● base:</p>
 
-<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
+<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">&emsp; 
 <img src="img/c_img.svg" alt="c">
 </a>
 <a href="https://en.cppreference.com/w/"> 
+&emsp; 
 <img src="img/cpp_img.svg" alt="cpp">
 </a>
 
-<p>● addition:</p>
-<a href="https://www.python.org/">
+<p>&emsp; ● addition:</p>
+<a href="https://www.python.org/">&emsp; 
 <img src="img/py.svg" alt="python">
 </a>
 
-<a href="https://htmlreference.io/">
+<a href="https://htmlreference.io/">&emsp; 
 <img src="img/html.svg" alt="html">
 </a>
-<a href="https://htmlreference.io/">
+<a href="https://htmlreference.io/">&emsp; 
 <img src="img/css.svg" alt="css">
 </a>
 </h2>
 
 
 <h2 align="left">
-Other useful IT-skills:<br>
+○ Other useful IT-skills:<br>
 <a href="https://git-scm.com/">
 <img src="img/git.svg" alt="latex">
 </a>
@@ -52,7 +53,7 @@ Other useful IT-skills:<br>
 
 
 <h2 align="left">
-Linux:<br>
+○ Linux:<br>
 <a href="https://www.kali.org/">
 <img src="img/kali.svg" alt="kali">
 </a>
