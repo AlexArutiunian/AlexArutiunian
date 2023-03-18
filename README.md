@@ -13,7 +13,7 @@
 ○ Programming languages:<br>
 
 
-<div class="part_lang">
+<h4 class="part_lang">
 <p>● base:</p>
 <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
 <img src="img/c_img.svg" alt="c">
@@ -23,8 +23,8 @@
  
 <img src="img/cpp_img.svg" alt="cpp">
 </a>
-</div>
-<div class="part_lang">
+</h4>
+<h4 class="part_lang">
 <p> ● addition:</p>
 <a href="https://www.python.org/">
 <img src="img/py.svg" alt="python">
@@ -36,7 +36,7 @@
 <a href="https://htmlreference.io/">
 <img src="img/css.svg" alt="css">
 </a>
-</div>
+</h4>
 </h2>
 
 
