@@ -53,7 +53,7 @@
 
 
 <h2 align="left">
-○ Linux:<br>
+○ Linux:<br><br>
 <a href="https://www.kali.org/">
 <img src="img/kali.svg" alt="kali">
 </a>
