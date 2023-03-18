@@ -6,12 +6,14 @@
 <h2 align="left">
 I create using these programming languages:<br>
 <p>● base:</p>
+<div>
 <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
 <img src="img/c_img.svg" alt="c">
 </a>
 <a href="https://en.cppreference.com/w/"> 
 <img src="img/cpp_img.svg" alt="cpp">
 </a>
+</div>
 <p>● addition:</p>
 <a href="https://www.python.org/">
 <img src="img/py.svg" alt="python">
