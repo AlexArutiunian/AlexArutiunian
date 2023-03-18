@@ -5,7 +5,7 @@
 <h2 align="center">
 ○ Programming languages:<br>
 
-<h4 class="part_lang">
+<h4 align="center" class="part_lang">
 <p>● base:</p>
 <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
 <img src="img/c_img.svg" alt="c">
@@ -16,7 +16,7 @@
 <img src="img/cpp_img.svg" alt="cpp">
 </a>
 </h4>
-<h4 class="part_lang">
+<h4 align="center" class="part_lang">
 <p> ● addition:</p>
 <a href="https://www.python.org/">
 <img src="img/py.svg" alt="python">
@@ -32,7 +32,7 @@
 </h2>
 
 
-<h2 align="left">
+<h2 align="center">
 ○ Other useful IT-skills:<br><br>
 <a href="https://git-scm.com/">
 <img src="img/git.svg" alt="latex">
