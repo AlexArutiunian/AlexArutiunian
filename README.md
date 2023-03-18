@@ -11,7 +11,7 @@
 <img src="img/c_img.svg" alt="c">
 </a>
 <a href="https://en.cppreference.com/w/"> 
-&emsp; 
+
 <img src="img/cpp_img.svg" alt="cpp">
 </a>
 
@@ -20,10 +20,10 @@
 <img src="img/py.svg" alt="python">
 </a>
 
-<a href="https://htmlreference.io/">&emsp; 
+<a href="https://htmlreference.io/">
 <img src="img/html.svg" alt="html">
 </a>
-<a href="https://htmlreference.io/">&emsp; 
+<a href="https://htmlreference.io/">
 <img src="img/css.svg" alt="css">
 </a>
 </h2>
@@ -53,7 +53,7 @@
 
 
 <h2 align="left">
-○ Linux:<br>
+○ Linux:<br><br>
 <a href="https://www.kali.org/">
 <img src="img/kali.svg" alt="kali">
 </a>
