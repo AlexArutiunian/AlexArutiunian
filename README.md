@@ -42,7 +42,7 @@
 </a>
 <a href="https://cmake.org/">
 <img src="img/cmake.svg" alt="cmake">
-</a>
+</a><br>
 <a href="https://www.gnu.org/software/bash/manual/bash.html">
 <img src="img/bash.svg" alt="bash">
 </a>
@@ -55,7 +55,7 @@
 </h2>
 
 
-<h2 align="left">
+<h2 align="center">
 ○ Linux:<br><br>
 <a href="https://www.kali.org/">
 <img src="img/kali.svg" alt="kali">
