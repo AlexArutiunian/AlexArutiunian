@@ -7,14 +7,17 @@
 ○ Programming languages:<br>
 <p>&emsp; ● base:</p>
 
-<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">&emsp; 
+<div class="ref_c">
+&emsp; 
+<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
 <img src="img/c_img.svg" alt="c">
 </a>
-<a href="https://en.cppreference.com/w/"> 
 
+<a href="https://en.cppreference.com/w/"> 
+&emsp; 
 <img src="img/cpp_img.svg" alt="cpp">
 </a>
-
+</div>
 <p>&emsp; ● addition:</p>
 <a href="https://www.python.org/">&emsp; 
 <img src="img/py.svg" alt="python">
