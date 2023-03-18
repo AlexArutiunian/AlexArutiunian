@@ -66,8 +66,10 @@
 
 </h2>
 
+<p align="center">
 
 P.S. by clicking on the icons, you can go to the skill reference
 
 Contact me: arutunanalexandr17@gmail.com
 arutiunian.ag@phystech.edu
+ </p>
