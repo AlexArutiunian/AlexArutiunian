@@ -30,7 +30,7 @@
 
 
 <h2 align="left">
-○ Other useful IT-skills:<br>
+○ Other useful IT-skills:<br><br>
 <a href="https://git-scm.com/">
 <img src="img/git.svg" alt="latex">
 </a>
@@ -53,7 +53,7 @@
 
 
 <h2 align="left">
-○ Linux:<br><br>
+○ Linux:<br>
 <a href="https://www.kali.org/">
 <img src="img/kali.svg" alt="kali">
 </a>
