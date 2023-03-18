@@ -1,17 +1,9 @@
-
-<style>
-    .part_lang{
-        margin-left: 5%;
-    }
- </style>
-
 <h1 align="center">Hi there, my name is Alexandr
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am MIPT DREC student</h3>
-<br><br>
+<br>
 <h2 align="left">
 ○ Programming languages:<br>
-
 
 <h4 class="part_lang">
 <p>● base:</p>
