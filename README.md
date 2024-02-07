@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am MIPT DREC student</h3>
 
-<h3 align="center">[My resume](https://drive.google.com/file/d/12EMAbG1yA9vz3vADIfO_AS_QSM2X1K0y/view?usp=sharing)</h3>
+<h3 align="center"><a href="https://drive.google.com/file/d/12EMAbG1yA9vz3vADIfO_AS_QSM2X1K0y/view?usp=sharing">My resume</a></h3>
 
 <h2 align="center">
 ○ Programming languages:<br>
