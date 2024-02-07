@@ -7,6 +7,9 @@
 
 <h4 align="center" class="part_lang">
 <p>● base:</p>
+ <a href="https://www.python.org/">
+<img src="img/py.svg" alt="python">
+</a><br>
 <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
 <img src="img/c_img.svg" alt="c">
 </a>
@@ -18,9 +21,7 @@
 </h4>
 <h4 align="center" class="part_lang">
 <p> ● addition:</p>
-<a href="https://www.python.org/">
-<img src="img/py.svg" alt="python">
-</a><br>
+
 
 <a href="https://htmlreference.io/">
 <img src="img/html.svg" alt="html">
